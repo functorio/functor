@@ -3,8 +3,14 @@ functor
 
 func·tor /ˈfəNG(k)tər/ noun 
 
-LOGIC MATHEMATICS 
+LOGIC MATHEMATICS
+
   a function; an operator. 
 
-LINGUISTICS 
+LINGUISTICS
+
   another term for function word.
+
+This is WIP, get updates on twitter:
+
+https://twitter.com/functorio
