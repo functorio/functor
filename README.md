@@ -19,4 +19,4 @@ https://twitter.com/functorio
 
 or on our website:
 
-http:///functor.io
+http://functor.io
